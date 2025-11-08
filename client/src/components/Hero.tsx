@@ -29,8 +29,8 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6"
         >
-          Powerful Web Design for<br />
-          <span className="text-primary">Texas Businesses</span>
+          Professional Web Design<br />
+          for <span className="text-primary">Texas Businesses</span>
         </motion.h2>
         <motion.p
           initial={{ opacity: 0, y: 30 }}
@@ -38,7 +38,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="text-xl md:text-2xl text-white/90 mb-8 max-w-2xl mx-auto"
         >
-          Professional websites that drive results. From design to deployment, we build your digital presence with expertise and care.
+          We create stunning websites that attract customers and grow your business
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 30 }}
