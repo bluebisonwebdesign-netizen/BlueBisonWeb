@@ -30,7 +30,7 @@ export default function Hero() {
           className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6"
         >
           Professional Web Design<br />
-          for <span className="text-primary">Texas Businesses</span>
+          for <span className="text-primary">US Businesses</span>
         </motion.h2>
         <motion.p
           initial={{ opacity: 0, y: 30 }}

@@ -24,10 +24,10 @@ export default function About() {
             transition={{ duration: 0.8 }}
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
-              Building Digital Excellence for Texas
+              Building Digital Excellence Across the US
             </h2>
             <p className="text-lg text-muted-foreground mb-6">
-              At Blue Bison Web Design, we're passionate about creating powerful digital experiences for businesses across Texas. Our team combines creative design with technical expertise to deliver websites that not only look stunning but drive real business results.
+              At Blue Bison Web Design, we're passionate about creating powerful digital experiences for businesses across the United States. Our team combines creative design with technical expertise to deliver websites that not only look stunning but drive real business results.
             </p>
             <p className="text-lg text-muted-foreground mb-6">
               From small local businesses to growing enterprises, we've helped our clients establish a strong online presence that attracts customers and builds credibility. Every project we take on receives our full commitment to quality, creativity, and exceptional service.
