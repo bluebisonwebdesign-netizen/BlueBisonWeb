@@ -58,7 +58,7 @@ export default function Portfolio() {
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Websites We've Built</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Proud to showcase our work with amazing Texas businesses
+            Proud to showcase our work with amazing businesses across the US
           </p>
         </motion.div>
 
